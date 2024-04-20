@@ -6,6 +6,5 @@ background-color: lightblue;
 
 .button {
 color: pink;
-whith: 100px
-hight: 100px
+transform: scale(1);
 }
