@@ -6,6 +6,6 @@ background-color: lightblue;
 
 .button {
 color: blue;
-border-style: groove;
+border-style: double;
 border-color: red;
 }
