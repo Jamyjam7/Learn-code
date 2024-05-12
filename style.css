@@ -5,6 +5,7 @@ background-color: lightblue;
 
 
 .button {
-color: pink;
-border-style: outset;
+color: blue;
+border-style: groove;
+border-color: blue;
 }
